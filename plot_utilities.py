@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as anim
 
-def matplotlib_figure_to_rgb(figure, grayscale = False):
+def figure_to_rgb(figure, grayscale = False):
     """
     Converts a matplotlib figure into a 3-channel numpy array.
     Figures are returned by
