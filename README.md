@@ -3,9 +3,9 @@ This repository provides some useful functions when working with python and matp
 
 ### Required Packages
 `
-Python 3&nbsp;
-Matplotlib  
-Numpy
+- [x] Python 3
+- [x] Matplotlib  
+- [x] Numpy
 `
 
 ### Recursive Plot of an Axes Image
