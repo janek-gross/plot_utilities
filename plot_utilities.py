@@ -17,7 +17,9 @@ def figure_to_rgb(figure, grayscale = False):
 
     returns:
     color_array: a numpy integer array of shape 
-               (height,width,3) or (height, width)
+               (height,width,3) or (height, width).
+               The array dimensions are 72 * figure dimensions
+               in inches.
     """
     # calling this method ensures that the plot is rendered
     figure.canvas.draw()
