@@ -6,5 +6,12 @@ This repository provides some useful functions when working with python and matp
 - [x] `Matplotlib`  
 - [x] `Numpy`
 
-## Recursive Plot of an Axes Image
+## Usage
+The code in the example_plot.py file demonstrates
+- how to convert a matplotlib figure into an rgb array.
+- how to create an animated *.gif image from an array of rgb or grayscale images.
+
+### Recursive Plot of an Axes Image
 <img src="https://github.com/janek-gross/plot_utilities/blob/master/test.gif?raw=true" width="400" height="400" />
+
+## License
