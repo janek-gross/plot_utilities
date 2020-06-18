@@ -2,10 +2,10 @@
 This repository provides some useful functions when working with python and matplotlib
 
 ### Required Packages
-`Python 3
-
+`
+Python 3  
 Matplotlib  
-Numpy  
+Numpy
 `
 
 ### Recursive Plot of an Axes Image
