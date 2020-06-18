@@ -1,7 +1,7 @@
 # plot_utilities
 This repository provides some useful functions when working with python and matplotlib
 
-### Required Packages
+### Requirements
 - [x] `Python 3`
 - [x] `Matplotlib`  
 - [x] `Numpy`
