@@ -2,7 +2,8 @@
 This repository provides some useful functions when working with python and matplotlib
 
 ### Required Packages
-`Python 3<br/>
+`Python 3
+
 Matplotlib  
 Numpy  
 `
