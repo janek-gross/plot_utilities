@@ -15,3 +15,4 @@ The code in the example_plot.py file demonstrates
 <img src="https://github.com/janek-gross/plot_utilities/blob/master/test.gif?raw=true" width="400" height="400" />
 
 ## License
+https://unlicense.org
