@@ -3,7 +3,6 @@ This repository provides some useful functions when working with python and matp
 
 ## Requirements
 - [x] `Python 3`
-- [x] `Matplotlib`  
 - [x] `Numpy`
 
 ## Usage
